@@ -1,0 +1,9 @@
+/* This is the CSS style sheet for the main github page */
+/* which is completely separate to the stuff we're doing in labs*/
+
+header{
+	margin: 0;
+	padding 0 5%;
+	background-color: green;
+	}
+	
